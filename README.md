@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PranavScogo
-- 👀 I’m interested in Artificial Intelligence
+- 👀 I’m interested in Artificial Intelligence, LLM ,etc.
 - 🌱 I’m currently learning RAG , AI Agents, LLM,etc.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on AI related research and projects.
 - 📫 You can reach out to me on pranav@scogo.in
 
 <!---
